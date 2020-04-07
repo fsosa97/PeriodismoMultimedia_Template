@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+ 
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,17 +9,19 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Locsical
 
-**Autor(es)** ______________
+**Autor(es)** Fabián Sosa Franquis
 
-**Resumen** : _________
+**Resumen** : España es un país no demasiado extenso que, sin embargo, está caracterizado por su riqueza cultural y la diversidad entre sus regiones. Mi propuesta es crear un mapa interactivo de España que permita organizar la música por procedencia de los artistas. Esto no solo permitiría a los usuarios conocer nueva música de una forma diferente sino además apreciar de una manera más didáctica las influencias musicales que afectan a cada región.
+
+La idea es que al hacer click sobre alguna de las comunidades autónomas se enlace al usuario a una playlist de Spotify que sería abierta y colaborativa, para que así los propios usuarios puedan ir añadiendo artistas y ampliando el catálogo que ofrecería este mapa interactivo que, además, podría ser insertado en algún blog o página web especializado en música.
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** : Ubica la música
 
-**Hashtag**  ___
+**Hashtag** :
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
