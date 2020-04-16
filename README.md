@@ -71,11 +71,11 @@ La narración es interactiva pero sencilla. Un mapa, en este caso de España (au
 ### Etapa 2: Prototipar / productos 
 Spotify: Para crear las playlists me he valido de la plataforma de música Spotify, que permite hacer las playlist colaborativas y públicas.
 
-Genial.ly: Para crear el mapa interactivo he utilizado la herramienta genial.ly. Ya la había empleado en otros proyectos y su función gratuita siempre me ha dado buenos resultados. 
+Genial.ly: Para crear el mapa interactivo he utilizado la herramienta genial.ly. Ya la había empleado en otros proyectos y su función gratuita siempre me ha dado buenos resultados. https://view.genial.ly/5e8f5c64124be30da51547c8/interactive-image-mapa-locsical
 
 Redes Sociales: Para difundir el mapa en redes sociales y hacer que la gente participara de un proyecto colaborativo como este he decidido que era mejor idea compartirlo desde mis perfiles personales de Twitter e Instagram, ya que considero más fácil hacer que la idea cale desde una cuenta personal que desde una cuenta corporativa que además partiría de los cero seguidores. En caso de que el proyecto alcanzase cierto éxitoso, me plantearía crear unos perfiles en redes propios para LOCSICAL. 
 
-Web: Por último, y para dar un soporte permanente que resista a la fugacidad de las redes sociales he diseñado una web con la herramienta Wix en la que no solo encontramos también el mapa interactivo sino que, además, he añadido un blog cuyo principal objetivo es crear contenido que consiga atraer a nuevos usuarios a la plataforma para que descubran el proyecto. 
+Web: Por último, y para dar un soporte permanente que resista a la fugacidad de las redes sociales he diseñado una web con la herramienta Wix en la que no solo encontramos también el mapa interactivo sino que, además, he añadido un blog cuyo principal objetivo es crear contenido que consiga atraer a nuevos usuarios a la plataforma para que descubran el proyecto. https://fabiansosa1997.wixsite.com/misitio-2/blog
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
