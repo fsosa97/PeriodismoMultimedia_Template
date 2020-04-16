@@ -19,9 +19,9 @@ La idea es que al hacer click sobre alguna de las comunidades autónomas se enla
 
 **logotipo** :  ________
 
-**Slogan** : Ubica la música
+**Slogan** : Descubre la música
 
-**Hashtag** : 
+**Hashtag** : #descubrelamúsica
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
