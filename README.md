@@ -21,7 +21,7 @@ La idea es que al hacer click sobre alguna de las comunidades autónomas se enla
 
 **Slogan** : Ubica la música
 
-**Hashtag** :
+**Hashtag** : 
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
@@ -55,48 +55,39 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Necesidad/oportunidad** 
 
-Sin duda, y aunque tambien barajé una opción similar antes incluso de conocer la existencia del mapa de Spotify, poder dar a conocer la música más escuchada en una region en concreto resulta mucho más interesante que un mapa que nos muestre listas de reproducción en función de la procedencia de los propios artistas. Sobre todo porque los datos relativos al consumo son mucho más valiosos en el mercado actual que cualquier otro dato que se pueda ofrecer. No obstante, no conozco de ningún mapa que ofrezca lo que yo planteo y mucho menos de una forma colaborativa. Por lo que creo que si puede existir una oportunidad para mi proyecto. 
+Sin duda, poder dar a conocer la música más escuchada en una region en concreto resulta mucho más interesante que un mapa que nos muestre listas de reproducción en función de la procedencia de los propios artistas. Sobre todo porque los datos relativos al consumo son mucho más valiosos en el mercado actual que cualquier otro dato que se pueda ofrecer. No obstante, no conozco de ningún mapa que ofrezca lo que yo planteo y mucho menos de una forma colaborativa. 
 
 **Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
-Desde siempre he estado muy interesado por la música. Y desde que tuve acceso a Intenet recuerdo pasarme horas y horas investigando en YouTube sobre artistas canarios de uno de mis géneros favoritos, el rap. Por aquel entonces, el rap era un género que no tenía cabida en los medios convencionales, al menos en España. Y si los raperos de por sí ya se encontraban con obstáculos para dar a conocer su música, a los artistas canarios, que contaban además con la barrera física de la lejanía que separa nuestro territorio del de el resto del estado, era casi imposible conocerlos por los medios convencionales. 
-
-Hoy las cosas han cambiado. Las redes sociales han abierto un espacio alternativo a través del cual se pueden dar a conocer los artistas sin necesidad de que una emisora en Madrid les haga sonar. No obstante, creo que una herramienta que recopile música en función de la procedencia del artista no solo descubrirá artistas de una forma interactiva y curiosa. Sino que nos puede ayudar a advertir influencias entre artistas de una misma región y similitudes entre la música que se crea en distintos puntos del país.
+Lo que diferencia a este proyecto es principalmente la posibilidad que ofrece de descubrir música de una forma más libre y saliendo de los algoritmos de recomendaciones de Spotify, que lo que nos muestran cada vez más es contenido similar al ya consumido previamente. Por lo que creo que si puede existir una oportunidad para mi proyecto. 
 
 **Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 Este proyecto puede resultar atractivo para aquellos amantes de la musica más curiosos, los que se pasan el dia investigando y buscando nuevos artistas. Pero también puede interesarles incrustar este mapa en sus webs a los medios especializados en música, como Mondo Sonoro, por ejemplo. O incluso a las propias plataformas de streaming, como Spotify. Aunque esta plataforma ya cuente con un mapa, la variable en torno a la cual gira no es la misma. 
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
-La narración es interactivo pero sencilla. Un mapa, en este caso de España (aunque podría ser escalable) en el que al pinchar sobre cada región te permita acceder a una playlist que albergue la música de los artistas procedentes de la misma. 
+La narración es interactiva pero sencilla. Un mapa, en este caso de España (aunque podría ser escalable) en el que al pinchar sobre cada región te permita acceder a una playlist colaborativa que albergue la música de los artistas procedentes de la misma. 
 
 
 ### Etapa 2: Prototipar / productos 
+Para crear las playlists me he valido de la plataforma de música Spotify. 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
+Para crear el mapa interactivo he utilizado la herramienta genial.ly. Ya la había empleado en otros proyectos y su función gratuita siempre me ha dado buenos resultados. 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+Para difundir el mapa en redes sociales y hacer que la gente participara de un proyecto colaborativo como este he decidido que era mejor idea compartirlo desde mis perfiles personales de Twitter e Instagram, ya que considero más fácil hacer que la idea cale desde una cuenta personal que desde una cuenta corporativa que además partiría de los cero seguidores. En caso de que el proyecto alcanzase cierto éxitoso, me plantearía crear unos perfiles en redes propios para LOCSICAL. 
 
-* redes sociales (...) 
-
-* publicidad: banner (... ) 
-
-* ...
+Por último, y para dar un soporte permanente que resista a la fugacidad de las redes sociales he diseñado una web con la herramienta Wix en la que no solo encontramos también el mapa interactivo sino que, además, he añadido un blog cuyo principal objetivo es crear contenido que consiga atraer a nuevos usuarios a la plataforma para que descubran el proyecto. 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
-
-
-
+Desde las propia aplicación de Spotify se puede contabilizar la cantidad de canciones que han sido añadidas en cada una de las listas. Además, se puede saber qué persona lo ha hecho, ya que nos muestra el nombre del perfil que ha añadido cada canción. Lo cual nos aporta también información valiosa.
 
 
 ### Conclusiones y trabajo futuro
 
-
 * Grado de consecución del proyecto 
+
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
