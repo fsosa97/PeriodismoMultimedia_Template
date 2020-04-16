@@ -69,13 +69,13 @@ La narración es interactiva pero sencilla. Un mapa, en este caso de España (au
 
 
 ### Etapa 2: Prototipar / productos 
-Para crear las playlists me he valido de la plataforma de música Spotify. 
+Spotify: Para crear las playlists me he valido de la plataforma de música Spotify, que permite hacer las playlist colaborativas y públicas.
 
-Para crear el mapa interactivo he utilizado la herramienta genial.ly. Ya la había empleado en otros proyectos y su función gratuita siempre me ha dado buenos resultados. 
+Genial.ly: Para crear el mapa interactivo he utilizado la herramienta genial.ly. Ya la había empleado en otros proyectos y su función gratuita siempre me ha dado buenos resultados. 
 
-Para difundir el mapa en redes sociales y hacer que la gente participara de un proyecto colaborativo como este he decidido que era mejor idea compartirlo desde mis perfiles personales de Twitter e Instagram, ya que considero más fácil hacer que la idea cale desde una cuenta personal que desde una cuenta corporativa que además partiría de los cero seguidores. En caso de que el proyecto alcanzase cierto éxitoso, me plantearía crear unos perfiles en redes propios para LOCSICAL. 
+Redes Sociales: Para difundir el mapa en redes sociales y hacer que la gente participara de un proyecto colaborativo como este he decidido que era mejor idea compartirlo desde mis perfiles personales de Twitter e Instagram, ya que considero más fácil hacer que la idea cale desde una cuenta personal que desde una cuenta corporativa que además partiría de los cero seguidores. En caso de que el proyecto alcanzase cierto éxitoso, me plantearía crear unos perfiles en redes propios para LOCSICAL. 
 
-Por último, y para dar un soporte permanente que resista a la fugacidad de las redes sociales he diseñado una web con la herramienta Wix en la que no solo encontramos también el mapa interactivo sino que, además, he añadido un blog cuyo principal objetivo es crear contenido que consiga atraer a nuevos usuarios a la plataforma para que descubran el proyecto. 
+Web: Por último, y para dar un soporte permanente que resista a la fugacidad de las redes sociales he diseñado una web con la herramienta Wix en la que no solo encontramos también el mapa interactivo sino que, además, he añadido un blog cuyo principal objetivo es crear contenido que consiga atraer a nuevos usuarios a la plataforma para que descubran el proyecto. 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
@@ -89,9 +89,13 @@ Desde las propia aplicación de Spotify se puede contabilizar la cantidad de can
 * Grado de consecución del proyecto 
 
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+Uno de los principales problemas es la cantidad ingente de música de la que disponemos.Llevaría un trabajo de investigación enorme que una sola persona hiciese 18 playlist variadas en las que abarcase artistas de diferentes géneros. Eso hace que este proyecto solo sea posible con la participación de los usuarios, lo cual es complicado de conseguir. 
 
+* Propuestas de mejora (por qué consideras que merece la pena continuar)
+Principalemente por el valor que aporta cada uno de los usuarios que colabora. Cuando una persona se toma la molestia de añadir una canción de un artista que le gusta y clasificarlo, contribuye a que este proyecto sea cada vez más interesante. 
+
+* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+Sería estupendo que alguna marca, artista o usuario con cierto impacto en redes sociales promocionase el proyecto. Así conseguiríamos que más gente participase del mismo. 
 
 Referencias y recursos: 
 
